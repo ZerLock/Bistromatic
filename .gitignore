@@ -1,0 +1,14 @@
+*.o
+*.a
+vgcore*
+calc
+*~
+.vscode
+main2.c
+a.out
+div
+mult
+add
+sub
+mod
+destroyer.sh
